@@ -20,4 +20,7 @@ function addTodo(event) {
     newTodo.innerText = 'make coffee';
     newTodo.classList.add('todo-item');
     todoDiv.appendChild(newTodo);
+    //create completed button
+    
+
 }
