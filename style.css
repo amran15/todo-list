@@ -26,4 +26,10 @@ form input, form button {
 form button {
     color: #f0b3a3;
     background: white;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+form button:hover {
+    background: #f0b3a3;
+    color: white;
 }
